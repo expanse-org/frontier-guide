@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-ARM.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Installation-Instructions-for-ARM.md" %}

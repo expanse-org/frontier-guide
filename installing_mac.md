@@ -1,3 +1,3 @@
 # Mac installation options
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-Mac.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Installation-Instructions-for-Mac.md" %}

@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Connecting-to-the-network.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Connecting-to-the-network.md" %}

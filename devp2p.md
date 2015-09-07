@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/wiki.wiki.git/ÐΞVp2p-Wire-Protocol.md" %}
+{% include "git+https://github.com/expanse-project/wiki.wiki.git/ÐΞVp2p-Wire-Protocol.md" %}

@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/JavaScript-Console.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/JavaScript-Console.md" %}

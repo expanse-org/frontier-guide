@@ -1,3 +1,3 @@
 
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Frontier.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Frontier.md" %}

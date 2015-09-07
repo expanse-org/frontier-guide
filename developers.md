@@ -1,2 +1,2 @@
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Developers'-Guide.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Developers'-Guide.md" %}

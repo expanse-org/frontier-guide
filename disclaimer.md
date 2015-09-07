@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Disclaimer.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Disclaimer.md" %}

@@ -1,5 +1,5 @@
 {% sections "introduction", "" %}
 {% endsections %}
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Contract-Tutorial.md" %}
 

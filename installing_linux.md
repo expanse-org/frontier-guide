@@ -2,9 +2,9 @@
 
 ## Debian/Ubuntu
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-Ubuntu.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Installation-Instructions-for-Ubuntu.md" %}
 
 ## Arch
 
-{% include "git+https://github.com/ethereum/go-ethereum.wiki.git/Installation-Instructions-for-Arch.md" %}
+{% include "git+https://github.com/expanse-project/go-expanse.wiki.git/Installation-Instructions-for-Arch.md" %}
 

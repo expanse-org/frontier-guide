@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [What is ethereum?](ethereum.md)
+   * [What is expanse?](expanse.md)
    * [The Frontier Release](frontier.md)
    * [Disclaimer](disclaimer.md)
    * [Overview](overview.md)
@@ -54,7 +54,7 @@
        * [Crowdfunder](contract_crowdfunder.md)
        * [Democracy DAO](contract_democracy.md)
 * [Technical specification]
-   * [Ethereum specification](eth_spec.md)
+   * [Expanse specification](eth_spec.md)
    * [DevP2P protocol spec](devp2p.md)
    * [Contract info (metadata)](contractinfo.md)
    * [ABI: Application Binary Interface](abi.md)

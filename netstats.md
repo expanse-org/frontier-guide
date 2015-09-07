@@ -1,1 +1,1 @@
-{% include "git+https://github.com/ethereum/wiki.wiki.git/Network-Status.md" %}
+{% include "git+https://github.com/expanse-project/wiki.wiki.git/Network-Status.md" %}
